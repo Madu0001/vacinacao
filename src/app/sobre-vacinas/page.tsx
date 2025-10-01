@@ -149,7 +149,7 @@ export default function SobreVacinas() {
           <Typography variant="body1" paragraph sx={{ fontSize: '1.1rem', lineHeight: 1.8 }}>
             Quando o sistema imunológico entra em contato com a vacina, ele produz anticorpos e células de 
             memória. Caso a pessoa seja exposta ao agente infeccioso real no futuro, o corpo já terá 
-            "memória" de como combatê-lo, respondendo rapidamente e evitando que a doença se desenvolva.
+            &quot;memória&quot; de como combatê-lo, respondendo rapidamente e evitando que a doença se desenvolva.
           </Typography>
           <Box
             sx={{
@@ -165,7 +165,7 @@ export default function SobreVacinas() {
               Importante saber:
             </Typography>
             <Typography variant="body1" sx={{ lineHeight: 1.8 }}>
-              As vacinas não causam a doença que previnem. Elas apenas "ensinam" o sistema imunológico 
+              As vacinas não causam a doença que previnem. Elas apenas &quot;ensinam&quot; o sistema imunológico 
               a se defender, sem causar a infecção completa.
             </Typography>
           </Box>
